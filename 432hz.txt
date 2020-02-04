@@ -1,0 +1,7 @@
+rood = geloven (geloof ++)
+geel = gebeuren (emotie +-)
+groen = invalshoek (giftig -)
+blauw = avontuur. (vraag, licht +)
+donker blauw = feitelijk (antwoord, donker -).
+paars = weten (wijsheid toepassen +)
+bruin = bevestigen (bruin +)
